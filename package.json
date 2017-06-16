@@ -1,7 +1,7 @@
 {
-  "name": "homebridge-playbulb",
+  "name": "homebridge-playbulb-rainbow",
   "version": "1.0.0",
-  "description": "A homebridge accessory for the Mipow Playbulb Candle LED candles",
+  "description": "A homebridge accessory for the Mipow Playbulb Rainbow LED",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,15 +9,14 @@
   "keywords": [
     "homebridge-plugin"
   ],
-  "author": "maxclaey",
+  "author": "darvell",
   "license": "ISC",
   "engines": {
-    "node": ">=0.12.0",
+    "node": ">=7.0.0",
     "homebridge": ">=0.2.0"
   },
   "dependencies": {
     "color": "^1.0.3",
-    "color-transitions": "^0.0.2",
     "noble": ">=1.7.0"
   }
 }
