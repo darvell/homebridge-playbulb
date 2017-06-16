@@ -1,5 +1,5 @@
 {
-  "name": "homebridge-playbulb-rainbow",
+  "name": "homebridge-playbulb",
   "version": "1.0.0",
   "description": "A homebridge accessory for the Mipow Playbulb Rainbow LED",
   "main": "index.js",
